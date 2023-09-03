@@ -1,6 +1,6 @@
 { pkgs }: {
 	deps = [
-    pkgs.nodejs_20
+    pkgs.nodejs-16_x
     pkgs.neofetch
 		pkgs.imagemagick
 		pkgs.speedtest-cli
